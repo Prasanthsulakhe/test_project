@@ -1,0 +1,35 @@
+    1  pwd
+    2  ls
+    3  cd python
+    4  pwd
+    5  cd..
+    6  ls
+    7  cd "ongoing classes"
+    8  cd "prasanth.txt"
+    9  pwd
+   10  ls
+   11  pwd
+   12  ls
+   13  mkdir f1
+   14  mkdir f2 f3 f4
+   15  rmdir f2
+   16  rmdir f3 f4
+   17  ls
+   18  cd test_app
+   19  mkdir f1
+   20  rmdir f1
+   21  rm -r f1
+   22  touch f1.py
+   23  touch f2.sqll f3.txt f4.py
+   24  cat f3.txt
+   25  nano f1.py
+   26  cat f1.py
+   27  cat f1.py
+   28  nano f1
+   29  cat f1.py
+   30  nano f1
+   31  cat f1.py
+   32  ls
+   33  cat f1
+   34  history
+   35  history >> comands_used.txt
